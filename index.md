@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to London Infosec! We are a consortium of academics in London (and our friends/collaborators elsewehere in UK, and all over the world) working on Infosec.
+Welcome to London Infosec! We are a consortium of academics in London (and our friends/collaborators elsewhere in UK, and all over the world) working on Infosec.
 
 <h2 id="resources"> Resources </h2>
 
