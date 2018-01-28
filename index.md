@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](https://london.ac.uk/sites/default/files/styles/promo_large/public/2017-08/Study%20in%20london.png?itok=GqrD62Mc)
+![](https://www.simplepastimes.com/prod_images_blowup/15064_2image.jpg)
 
 Welcome to London Infosec! We are a consortium of [University of London](https://london.ac.uk/ways-study/study-campus-london/member-institutions) academics (and our friends) working on Infosec.
 
