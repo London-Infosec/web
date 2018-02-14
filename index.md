@@ -15,3 +15,5 @@ You can join our resources if you have a *.ac.uk email address, or if you know s
 <h2 id="steering"> Steering committee </h2>
 
 * [Shehar Bano](http://sheharbano.com) (University College London)
+* [Jeremiah Onaolapo](http://www0.cs.ucl.ac.uk/staff/J.Onaolapo/) (University College London)
+* [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/) (Queen Mary University London)
