@@ -18,3 +18,4 @@ You can join our resources if you have a *.ac.uk email address, or if you know s
 * [Jeremiah Onaolapo](http://www0.cs.ucl.ac.uk/staff/J.Onaolapo/) (University College London)
 * [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/) (Queen Mary University London)
 * [Katherine Fletcher](https://www.cs.ox.ac.uk/people/katherine.fletcher/) (University of Oxford)
+* [Alice Hutchings](https://www.cl.cam.ac.uk/~ah793/) (University of Cambridge)
