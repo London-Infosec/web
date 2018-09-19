@@ -18,7 +18,7 @@ You can join our resources if you have a *.ac.uk email address, or if you know s
 * [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/) (Queen Mary University London)
 * [Katherine Fletcher](https://www.cs.ox.ac.uk/people/katherine.fletcher/) (University of Oxford)
 * [Alice Hutchings](https://www.cl.cam.ac.uk/~ah793/) (University of Cambridge)
-* [Patrick McCorry](http://www0.cs.ucl.ac.uk/staff/P.McCorry/)(King's College London)
-<h3 id="steering-previous"> Past members of the steering committee </h3>
+* [Patrick McCorry](http://www0.cs.ucl.ac.uk/staff/P.McCorry/) (King's College London)
+<h2 id="steering-previous"> Steering committee (Past members) </h2>
 
-* [Jeremiah Onaolapo](http://www0.cs.ucl.ac.uk/staff/J.Onaolapo/) (University College London)
+* [Jeremiah Onaolapo](http://www0.cs.ucl.ac.uk/staff/J.Onaolapo/) (University College London) Jan--Sep 2018.
