@@ -16,7 +16,7 @@ We have a mailing-list and a Slack channel. At the moment, the mailing-list is q
 
 <h2 id="steering"> Steering committee </h2>
 
-* [Shehar Bano](http://sheharbano.com) (University College London), Founder.
+* [Shehar Bano](http://sheharbano.com) (Facebook), Founder.
 * [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/) (Queen Mary University London)
 * [Katherine Fletcher](https://www.cs.ox.ac.uk/people/katherine.fletcher/) (University of Oxford)
 * [Alice Hutchings](https://www.cl.cam.ac.uk/~ah793/) (University of Cambridge)
