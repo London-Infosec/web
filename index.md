@@ -2,11 +2,13 @@
 layout: default
 ---
 
-Welcome to London Infosec! We are a consortium of academics in London (and our friends/collaborators elsewhere in UK, and all over the world) working on Infosec.
+Welcome to London Infosec! We are a consortium of people working on infosec, from both academia and industry, in London (and our friends/collaborators elsewhere in UK, and all over the world).
 
 <h2 id="resources"> Resources </h2>
 
-You can join our resources if you have a *.ac.uk email address, or if you know someone with a *.ac.uk who is happy to be your reference. Slack has a whitelist style subscription model. We have added a few "seed" university email domains, but if you're unable to join because your university is missing from the list, please let us know! For all enquiries, email us on **london.infosec[AT]gmail[DOT]com**
+If you fit the above description, we would love to have you join us!
+
+We have a mailing-list and a Slack channel. At the moment, the mailing-list is quite active and the Slack channel is rather quiet :-) Anyone can join the mailing-list. Slack has a whitelist style subscription model. We have added a few "seed" organizational (mostly university) email domains, but if you're unable to join, please let us know! For all enquiries, email us on **london.infosec[AT]gmail[DOT]com**
 
 
 * [Subscribe to London Infosec mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=LONDON-INFOSEC&A=1)
